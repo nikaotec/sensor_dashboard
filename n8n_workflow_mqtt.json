@@ -47,7 +47,7 @@
         },
         {
             "parameters": {
-                "url": "http://your-dashboard-api.com/api/telemetry",
+                "url": "http://www.nikaotech.com/api/sensors",
                 "method": "POST",
                 "sendBody": true,
                 "bodyParameters": {
